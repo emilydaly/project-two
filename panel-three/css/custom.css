@@ -1,0 +1,29 @@
+.btn-primary, hr.divider, .btn-primary.disabled{
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    color:rgba(92, 77, 66, 0.8)
+}
+:hover, :active{
+    color: darkslategray;
+}
+.bi-gem, .bi-laptop, .bi-globe, .bi-heart{
+    color: black !important;
+}
+.portfolio-box-caption{
+    background-color: black !important;
+}
+h3{
+    color: rgba(92, 77, 66, 0.8);
+}
+h1, h2, h3, h4, .navbar-brand, .nav-item, .btn-primary, .btn-light{
+    font-family: 'Gloock', serif !important;
+}
+p, .nav-link{
+    font-family: 'Playfair Display', serif !important;
+}
+header.masthead{
+   background: linear-gradient(to bottom, rgba(18, 42, 79, 0.8) 0%, rgba(18, 42, 79, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+}
+a.nav-link.active{
+    color:rgba(92, 77, 66, 0.8)
+}

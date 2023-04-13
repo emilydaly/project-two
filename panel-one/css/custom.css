@@ -1,0 +1,15 @@
+.dropdown-item{
+    font-family: 'Inter', sans-serif;
+}
+.nav-item{
+    font-family: 'Inter', sans-serif;
+}
+.btn{
+    font-family: 'Inter', sans-serif;
+}
+footer{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    padding: 50px;
+}
